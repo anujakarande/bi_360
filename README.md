@@ -1,5 +1,7 @@
 AtliQ Hardware Power BI Dashboard
 
+live dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDE0ZGQ2NjEtN2Q2NC00NDRiLWI2MTMtNmQ1M2QxZmM4ODEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Project Overview
 AtliQ Hardware manufactures and sells hardware like PCs, mice, printers, and more to companies worldwide, including Croma, Amazon, Neptune, Staples, and Walmart. AtliQ's customers fall into two categories: Physical Stores and E-commerce platforms.
 
